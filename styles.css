@@ -1065,7 +1065,7 @@ section.product-section {
     transform: translateY(-50%);
     width: 45px;
     height: 45px;
-    background-image: url('/assets/images/icons/Frame99.png');
+    background-image: url('/assets/Frame99.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -1078,7 +1078,7 @@ section.product-section {
     transform: translateY(-50%);
     width: 45px;
     height: 45px;
-    background-image: url('/assets/images/icons/Frame991.png');
+    background-image: url('/assets/Frame991.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
